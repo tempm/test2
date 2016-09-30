@@ -9,3 +9,5 @@ that metode not work. let's try in commit message
 resault: working :+1:
 
 # mention in commit message body
+
+test commit message formaing
